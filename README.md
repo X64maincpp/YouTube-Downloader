@@ -11,7 +11,7 @@
 - **Open Download Directory:** Easily access the folder where videos are downloaded.
 - **Clear Fields:** Automatically clears URL and quality fields after downloading for new use.
 
-## Installation 🛠
+## Installation
 
 1. Clone the repository:
    ```sh
