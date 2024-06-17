@@ -1,8 +1,8 @@
-# YouTube Video Downloader 🎥
+# YouTube Video Downloader
 
 **YouTube Video Downloader** is a Python application using Tkinter and ttkbootstrap to download YouTube videos in MP4 format. This application has a modern interface and enables users to download videos and audio with various quality options.
 
-## Features ✨
+## Features
 
 - **YouTube Video Download:** Enter the video URL and download it with a few clicks.
 - **Audio Download:** Option to download only the audio track of the video.
@@ -37,7 +37,7 @@
    python main.py
    ```
 
-## Usage 🚀
+## Usage
 
 1. Enter the YouTube video URL.
 2. Click the "Fetch Video Details" button to retrieve the video's details.
@@ -46,7 +46,7 @@
 5. Click "Download" to start downloading.
 6. Once the download is complete, the URL and quality will be automatically cleared, ready for a new download.
 
-## Code Overview 🧩
+## Code Overview
 
 ### Main Window (`YouTubeDownloader` class)
 
@@ -62,11 +62,11 @@
 2. **Audio Handling:** Depending on the user’s choice, download audio separately or combine it with the video stream.
 3. **Combining Video and Audio:** If separate audio is downloaded, the `moviepy` library is used to combine them into a single video file.
 
-## Contributing 🔧
+## Contributing
 
 Contributions are welcome! Please create a pull request to propose changes.
 
-## Acknowledgements 🙏
+## Acknowledgements
 
 - [ttkbootstrap](https://github.com/israel-dryer/ttkbootstrap)
 - [pytube](https://github.com/pytube/pytube)
