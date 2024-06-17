@@ -15,7 +15,7 @@
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your_user/your_repo.git
+   git clone https://github.com/x64maincpp/YouTube-Downloader.git
    cd your_repo
    ```
 
@@ -65,10 +65,6 @@
 ## Contributing 🔧
 
 Contributions are welcome! Please create a pull request to propose changes.
-
-## License 📄
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Acknowledgements 🙏
 
