@@ -16,7 +16,7 @@
 1. Clone the repository:
    ```sh
    git clone https://github.com/x64maincpp/YouTube-Downloader.git
-   cd your_repo
+   cd YouTube-Downloader
    ```
 
 2. Create and activate a virtual environment (Optional but recommended):
