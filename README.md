@@ -27,7 +27,7 @@
 
 3. Install dependencies:
    ```sh
-   pip install -r requirements.txt
+   python -m pip install ttkbootstrap
    ```
 
    *Ensure you have `ffmpeg` installed for audio-video conversion with `moviepy`.*
